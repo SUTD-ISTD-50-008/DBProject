@@ -30,6 +30,9 @@
             android:name="com.example.dbproject.BookListActivity"
             android:label="@string/title_activity_book_list" >
         </activity>
+        <activity android:name="CheckoutActivity"></activity>
+        <activity android:name="BookInfoActivity"></activity>
+        <activity android:name="UserInfoActivity"></activity>
     </application>
 
 </manifest>
